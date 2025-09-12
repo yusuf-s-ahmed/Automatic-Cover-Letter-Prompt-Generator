@@ -75,7 +75,7 @@ I want you to write me responses to job application questions with the following
 - Write directly and concisely, without filler or bloated phrases that add little meaning.
 - When using company research, do not cite sources or list stats like a scraper. Instead, summarise naturally in plain language, as if I had read about them myself. Bring in one or two cultural or strategic points that feel relevant, and connect them to my experiences or motivations in a human way.
 - Lead with most relevant experiences and skills.
-- Don't use the terms 'rigour', 'underpins',  replace it with something else.
+- Don't use the terms 'rigour', 'underpins', 'resonates',  replace it with something else.
 - If you can, highlight how I want to stay at the company long-term and grow with them.
 
 Here is the company name:
