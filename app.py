@@ -242,7 +242,8 @@ def main():
     \textbf{\LARGE Yusuf Ahmed} \\ \vspace{1pt}
     \small London, UK $|$ 
     \small +447897705492 $|$ \href{mailto:yusufahmed101@icloud.com}{\underline{yusufahmed101@icloud.com}} $|$ 
-    \href{https://linkedin.com/in/yusuf-s-ahmed}{\underline{linkedin.com/in/yusuf-s-ahmed}} 
+    \href{https://linkedin.com/in/yusuf-s-ahmed}{\underline{linkedin.com/in/yusuf-s-ahmed}} $|$ 
+    \href{https://github.com/yusuf-s-ahmed}{\underline{github.com/yusuf-s-ahmed}} 
 \end{center}
 
 %----------COMPANY ADDRESS----------
