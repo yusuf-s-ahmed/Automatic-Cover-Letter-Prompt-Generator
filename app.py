@@ -171,15 +171,13 @@ def main():
     questions = st.text_area("Application Questions (Optional)")
 
     if st.button("Generate Prompt"):
-        
         if not (company_name and job_role and job_description and resume_info):
             st.error("Please fill in all required fields before generating the prompt.")
-        
-        elif company_name and job_role and job_description and resume_info and questions:
-            prompt = generate_questions_prompt(company_name, job_role, job_description, resume_info, questions if questions.strip() else None)
-        
         else:
-            prompt = generate_cover_letter_prompt(company_name, job_role, job_description, resume_info, questions if questions.strip() else None)
+            if questions.strip():
+                prompt = generate_questions_prompt(company_name, job_role, job_description, resume_info, questions)
+            else:
+                prompt = generate_cover_letter_prompt(company_name, job_role, job_description, resume_info)
 
             # Save the prompt to a PDF
             file_name = save_to_pdf(prompt)
@@ -197,6 +195,19 @@ def main():
                     file_name=file_name,
                     mime="application/pdf"
                 )
+
+            # Generate LaTeX code
+            latex_code = generate_latex(prompt)
+
+            # Provide a download link for the LaTeX file
+            st.header("Generated LaTeX Code:")
+            st.text_area("LaTeX Code", latex_code, height=400)
+            st.download_button(
+                label="Download LaTeX File",
+                data=latex_code,
+                file_name="cover_letter.tex",
+                mime="text/plain"
+            )
 
             # -------------------------
             # Static instruction block for ChatGPT
