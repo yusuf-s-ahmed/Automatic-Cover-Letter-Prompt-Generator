@@ -26,6 +26,7 @@ I want you to write me a cover letter with the following requirements:
 
 - I am a second year Computer Science student at City University of London with a strong interest in finance and technology.
 - When you refer to Largence Ltd, clarify that is is a internet technology company before introducing it, Vital Therapy Ltd is a health technology company, Sybertnetics AI Soltions is an AI solutions startup company.
+- If it's a finance-heavy related role, highlight my experience with finance, then my technical skills and projects.
 - Use British spelling.
 - Do not use negating statements like “Not only do I bring curiosity to your company, but also resilience and respect.”
 - Do not use em dashes ‘—’. Anywhere you would naturally write one, replace it with a comma or restructure the sentence.
