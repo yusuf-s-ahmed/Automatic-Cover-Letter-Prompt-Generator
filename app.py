@@ -67,7 +67,7 @@ You are a skilled writer who handcrafts letters from scratch despite being in a 
 I want you to write me responses to job application questions with the following requirements:
 
 - I am a second year Computer Science student at City University of London with a strong interest in finance and technology.
-- When you refer to Largence Ltd, clarify that is is a internet technology company before introducing it, Vital Therapy Ltd is a health technology company, Sybertnetics AI Solutions is an AI startup company.
+- When you refer to Largence Group Ltd, clarify that is is a internet technology company before introducing it, Vital Therapy Ltd is a health technology company, Sybertnetics AI Solutions is an AI startup company.
 - Use British spelling.
 - Do not use negating statements like “Not only do I bring curiosity to your company, but also resilience and respect.”
 - Do not use em dashes ‘—’. Anywhere you would naturally write one, replace it with a comma or restructure the sentence.
@@ -75,7 +75,7 @@ I want you to write me responses to job application questions with the following
 - Write directly and concisely, without filler or bloated phrases that add little meaning.
 - When using company research, do not cite sources or list stats like a scraper. Instead, summarise naturally in plain language, as if I had read about them myself. Bring in one or two cultural or strategic points that feel relevant, and connect them to my experiences or motivations in a human way.
 - Lead with most relevant experiences and skills.
-- Don't use the terms 'rigour', 'underpins', 'resonates',  replace it with something else.
+- Don't use the terms 'rigour', 'underpins', 'resonates', replace it with something else.
 - If you can, highlight how I want to stay at the company long-term and grow with them.
 
 Here is the company name:
