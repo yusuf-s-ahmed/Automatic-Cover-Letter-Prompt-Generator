@@ -157,7 +157,7 @@ Yusuf Ahmed
 def main():
     st.title("Auto-Tailored Cover Letter Prompt Generator")
 
-    st.text("""This application helps you generate a tailored prompt for writing cover letters based on your inputs. Fill in the details below and click "Generate Prompt" to create your personalized prompt, save it as a PDF, and get the LaTeX code for your cover letter.""")
+    st.text("""This application helps you generate a tailored prompt for writing cover letters based on your inputs. Fill in the details below and click "Generate Prompt" to create your personalised prompt, save it as a PDF, and get the LaTeX code for your cover letter.""")
 
     st.link_button("Trackr", "https://www.the-trackr.com/")
     st.link_button("Overleaf", "https://www.overleaf.com/project")
