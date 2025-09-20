@@ -25,7 +25,7 @@ You are a skilled writer who handcrafts letters from scratch despite being in a 
 I want you to write me a cover letter with the following requirements:
 
 - I am a second year Computer Science student at City University of London with a strong interest in finance and technology.
-- When you refer to Largence Ltd, clarify that is is a internet technology company before introducing it, Vital Therapy Ltd is a health technology company, Sybertnetics AI Soltions is an AI solutions startup company.
+- When you refer to 'Largence Group Ltd.', 'Vital Therapy Ltd.', and 'Sybertnetics Artificial Intelligence, Inc.', clarify their industries before introducing them, e.g. "My work at an internet technology company, Largence Group Ltd., a health technology company, Vital Therapy Ltd. and an AI startup company, Sybertnetics Artificial Intelligence, Inc."
 - If it's a finance-heavy related role, highlight my experience with finance, then my technical skills and projects.
 - Use British spelling.
 - Do not use negating statements like “Not only do I bring curiosity to your company, but also resilience and respect.”
